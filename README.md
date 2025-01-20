@@ -1,0 +1,1 @@
+This repository demonstrates a bug in React Native where the Dimensions API returns undefined on Android devices. The bug is intermittent, making it challenging to debug. The solution involves using a combination of event listeners and state management to handle the undefined values gracefully.
